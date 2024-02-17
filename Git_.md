@@ -7,3 +7,15 @@
 #### `git config --list` - get all configuration list
 
 #### `git --unsent user.email` - remove email from project configuration same as `name`
+
+
+###  in git there 3 isolation levels  `WorkingDirectory`, `Index` and `Repository`
+
+#### `git add ` - add our system files to `Index` level
+
+#### `git commit` - commit the changes to `Repository` level
+
+#### `git show --pretty=fuller` show the commits like commit history
+
+#### `git reset HEAD `name of file` ` - remove the committed file
+
