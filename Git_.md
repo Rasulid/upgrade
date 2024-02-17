@@ -22,4 +22,6 @@
 #### `git add -p `file name` ` - add the changes to `Index` step by step
 
 
-#### uncommitted change 
+#### `git commit -all (a)` - commit all modifications to `Repository`
+
+#### `git commit -m "massage" .gitignore (filename) ` - commit only this file 
