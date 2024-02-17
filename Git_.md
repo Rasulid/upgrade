@@ -19,3 +19,7 @@
 
 #### `git reset HEAD `name of file` ` - remove the committed file
 
+#### `git add -p `file name` ` - add the changes to `Index` step by step
+
+
+#### uncommitted change 
