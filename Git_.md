@@ -25,3 +25,13 @@
 #### `git commit -all (a)` - commit all modifications to `Repository`
 
 #### `git commit -m "massage" .gitignore (filename) ` - commit only this file 
+
+#### `git config --global core.excludesFile ~/.gitignore` - create .gitignore file on global isolation level
+
+#### `git rm <path>` - remove the directory
+* -r - remove the repository
+* -f - force remove 
+* --cached - remove in Index
+
+#### `git mv <old> <new>` - rename the repository
+
