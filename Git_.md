@@ -42,3 +42,12 @@
 #### `git branch -f <branch name> <branch name>` - branch points to branchs commit
 #### `git barnch -B <branch name> <commit number>` - move back and switch branch
 
+#### `git cheackout <old commit number>` - go to the commits link
+#### `git cherry-pick <old commit number>` - copy the commit our branch
+
+#### `git checkout <commit number> <file name or names>` backup file if file is deleted
+#### `git reset <file name>` - reset the all updates
+
+#### `git checkout HEAD <file name>` - reset the file
+
+#### ``
