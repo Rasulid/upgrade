@@ -35,3 +35,5 @@
 
 #### `git mv <old> <new>` - rename the repository
 
+#### `git stash` - save the all uncommitted changes 
+#### `git stash pop` - back my code
