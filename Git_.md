@@ -37,3 +37,8 @@
 
 #### `git stash` - save the all uncommitted changes 
 #### `git stash pop` - back my code
+
+#### `git branch -f <branch name> <commit number>` - move back branch commit version
+#### `git branch -f <branch name> <branch name>` - branch points to branchs commit
+#### `git barnch -B <branch name> <commit number>` - move back and switch branch
+
