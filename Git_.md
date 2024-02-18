@@ -35,3 +35,10 @@
 
 #### `git mv <old> <new>` - rename the repository
 
+
+#### `git branch <name>` - create a new branch
+#### `git checkout <name>` - switch to the new branch
+#### `git checkout -b <name>` - create the new branch and switch
+
+
+
