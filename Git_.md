@@ -57,7 +57,7 @@
 
 #### `git checkout HEAD <file name>` - reset the file
 
-When i test the merge I deleted the one lesson ```link https://www.youtube.com/watch?v=l-sTQBr3rXY&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb&index=18```
+When I test the merge I deleted the one lesson ```link https://www.youtube.com/watch?v=l-sTQBr3rXY&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb&index=18```
 
 #### `git merge <branch name>` - merge
 
